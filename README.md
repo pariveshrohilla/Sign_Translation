@@ -13,4 +13,4 @@ If you wanna use this particular code then follow the particular steps
 11. A new file will be automatically saved model.h5 where your model will be saved
 12. If your accuracy is greater than 0.8 then go ahead
 13. Copy and run app.py to run the final code as required
-14. 
+    

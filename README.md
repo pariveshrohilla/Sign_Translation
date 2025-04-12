@@ -9,9 +9,10 @@ If you wanna use this particular code then follow the particular steps
 7. Capture a few images and save them
 8. copy and run function.py to run all the necessary functions
 9. copy and run data.py to save the end points of your hand and save thema as npy format for each alphabet
-10. Copy and run trainmodel.py to run the model and train your model
-11. If you want you can change the epoch size in a range of 200 and 500
-12. A new file will be automatically saved model.h5 where your model will be saved
-13. If your accuracy is greater than 0.8 then go ahead
-14. Copy and run app.py to run the final code as required
+10. pip install scikit-learn
+11. Copy and run trainmodel.py to run the model and train your model
+12. If you want you can change the epoch size in a range of 200 and 500
+13. A new file will be automatically saved model.h5 where your model will be saved
+14. If your accuracy is greater than 0.8 then go ahead
+15. Copy and run app.py to run the final code as required
     

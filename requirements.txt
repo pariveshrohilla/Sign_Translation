@@ -1,0 +1,4 @@
+tensorflow
+mediapipe
+opencv-python
+scikit-learn

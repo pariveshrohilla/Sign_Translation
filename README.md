@@ -45,3 +45,7 @@ Requirements
 3. opencv-python==4.9.0.80
 4. scikit-learn==1.4.2
 5. numpy
+
+   Check the ASl
+   
+<img src="sign.webp" width="55%" /> 
